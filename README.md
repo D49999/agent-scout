@@ -1,13 +1,3 @@
----
-AIGC:
-  Label: "1",
-  "ContentProducer":   "00191310104MAC2G6EG4100000003",
-  "ContentPropagator": "00191310104MAC2G6EG4100000003",
-  "ProduceID":         "u-4de96b-92a109dd-b7c3-40e7-a992-f3727fb4031b",
-  "PropagateID":       "u-4de96b-92a109dd-b7c3-40e7-a992-f3727fb4031b",
-  "ReservedCode1":     "",
-  "ReservedCode2":     "",
----
 # GitHub 每日 Agent 项目获取器
 
 一个轻量级 Python 应用，每天自动从 GitHub 抓取与 **AI Agent** 相关的开源项目，
